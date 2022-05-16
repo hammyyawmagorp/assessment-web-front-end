@@ -62,3 +62,8 @@ img {
 	height: 200px;
 	width: auto;
 }
+
+#hicksville-sign-img{
+	border: 5px solid #555;
+	border-radius: 8px;
+}
