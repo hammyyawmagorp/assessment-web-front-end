@@ -15,6 +15,8 @@ form.addEventListener('submit', handleSubmit);
 
 
 function mouseoverComp(evt) {
+	evt.preventDefault();
+	
 	alert('You are so good looking')
 }
 
